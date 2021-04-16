@@ -50,8 +50,6 @@ for (var i = 0; i <= limit; i++) {
 console.log(total);
 
 // N06
-
-console.log("ex06");
 var sentence = "Hello Konexio !";
 var newSentence = '';
 var s = sentence.length - 1;
