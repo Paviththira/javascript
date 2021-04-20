@@ -44,13 +44,32 @@ if (ussainBolt > tysonGay) {
 }
 
 // No4
+// corrections
+// let box1 = 12;
+// let box2 = 5;
+// while (box1 > 0) {
+//     console.log(box2);
+//     box1 -= 10;
+//     console.log(box1);
+// }
 
-var box1 = 12;
-var box2 = 5;
-while (box1 > 0) {
-    console.log(box2);
-    box1 -= 10;
-    console.log(box1);
-}
+console.log(5);
+console.log(2);
+console.log(5);
+console.log(-8);
 
 
+// No5
+// corrections
+
+// let i = 0;
+// let box1 = 7;
+// while (i > 0) {
+//     i++;
+//     console.log(box1 + i);
+// }
+// console.log(i);
+// console.log(box1);
+
+console.log(0);
+console.log(7);
